@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "02B+XepcXIS7I/94rYX7Kk5oC29VvMH5brObN+2CEOU0AVJK1cpPGQsTfxrGTVR0XQkSfZso1jN/ZVmSn9PM+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoaoSimao\\source\\repos\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

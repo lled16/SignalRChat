@@ -1,0 +1,8 @@
+C:\Users\JoaoSimao\source\repos\SignalRChat\SignalRChat\bin\Release\net8.0\publish\SignalRChat.exe
+C:\Users\JoaoSimao\source\repos\SignalRChat\SignalRChat\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\JoaoSimao\source\repos\SignalRChat\SignalRChat\bin\Release\net8.0\publish\appsettings.json
+C:\Users\JoaoSimao\source\repos\SignalRChat\SignalRChat\bin\Release\net8.0\publish\libman.json
+C:\Users\JoaoSimao\source\repos\SignalRChat\SignalRChat\bin\Release\net8.0\publish\SignalRChat.dll
+C:\Users\JoaoSimao\source\repos\SignalRChat\SignalRChat\bin\Release\net8.0\publish\SignalRChat.deps.json
+C:\Users\JoaoSimao\source\repos\SignalRChat\SignalRChat\bin\Release\net8.0\publish\SignalRChat.runtimeconfig.json
+C:\Users\JoaoSimao\source\repos\SignalRChat\SignalRChat\bin\Release\net8.0\publish\SignalRChat.pdb

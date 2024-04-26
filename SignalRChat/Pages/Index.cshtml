@@ -1,0 +1,32 @@
+﻿@page
+<div class="container" style="justify-content:center;">
+    <div class="row p-1">
+        <div class="col-2" style="font-weight:bold;">NOME</div>
+    </div>
+    <div class="row p-1">
+        <div class="col-7"><input class="w-100" type="text" id="userInput" style="border-radius:5px;" /></div>
+    </div>
+    <div class="row p-1">
+        <div class="col-2" style="font-weight:bold;">MENSAGEM</div>
+    </div>
+    <div class="row p-1">
+        <div class="col-7"><input type="textarea" class="w-100" id="messageInput" style="border-radius:5px;" /></div>
+    </div>
+    <div class="row p-1">
+        <div class="col-7 text-end">
+            <input type="button" id="sendButton" value="ENVIAR" style="font-weight:bold; background-color:darkgreen;border: 1px solid darkgreen; border-radius:5px; font-size:15px; color:white; font-size:15px;"/>
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-7">
+            <hr />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-6">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
