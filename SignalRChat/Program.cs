@@ -5,7 +5,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-builder.Services.AddSignalR();
+builder.Services.AddSignalR(e =>
+{
+    e.MaximumReceiveMessageSize = 102400000;
+});
+
 
 builder.Services.AddCors(options =>
 {
@@ -39,4 +43,4 @@ app.UseCors("CorsPolicy");
 app.MapRazorPages();
 app.MapHub<ChatHub>("/chatHub");
 
-app.Run();
+app.Run("http://*:5001");
