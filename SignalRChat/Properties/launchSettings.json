@@ -1,4 +1,19 @@
 {
+  "profiles": {
+    "SignalRChat": {
+      "commandName": "Project",
+      "launchUrl": "http://*:5001",
+      "applicationUrl": "http://*:5001"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "http://*:5001",
+      "environmentVariables": {
+        "ASPNETCORE_HTTP_PORTS": "5001"
+      },
+      "publishAllPorts": true
+    }
+  },
   "Logging": {
     "LogLevel": {
       "Default": "Information",

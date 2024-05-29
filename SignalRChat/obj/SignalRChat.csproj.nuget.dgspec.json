@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JoaoSimao\\source\\repos\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {}
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JoaoSimao\\source\\repos\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JoaoSimao\\source\\repos\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
         "projectName": "SignalRChat",
-        "projectPath": "C:\\Users\\JoaoSimao\\source\\repos\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
         "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JoaoSimao\\source\\repos\\SignalRChat\\SignalRChat\\obj\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\SignalRChat\\SignalRChat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

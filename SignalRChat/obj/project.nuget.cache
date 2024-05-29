@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "02B+XepcXIS7I/94rYX7Kk5oC29VvMH5brObN+2CEOU0AVJK1cpPGQsTfxrGTVR0XQkSfZso1jN/ZVmSn9PM+w==",
+  "dgSpecHash": "i6n2U4f5uzJb5PQ5c6Q27JteNq8m6Lgwz148hGNd0R3bpkqVtuicckDqP6bLdzsy8KV8WvqvyqCbnbtnGiP4BA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JoaoSimao\\source\\repos\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+  "projectFilePath": "C:\\Users\\JoaoSimao\\Documents\\joao\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JoaoSimao\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
   ],
